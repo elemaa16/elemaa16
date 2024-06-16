@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Buenas! 👋 Soy Emmanuel
 
-<!--
-**elemaa16/elemaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador apasionado por la tecnología y la programación. Me gusta aprender y compartir mis conocimientos con la comunidad.
+Actualmente estoy cursando el segundo año de la Tecnicatura en Programación de la UTN-FRP. 
+También estoy realizando la Diplomatura en Programación Full Stack dictado por la UTNBA. 
+
+## Proyectos Destacados
+
+- [Portafolio Personal](https://github.com/elemaa16/web-portfolio-utn): Un portafolio personal con diseño minimalista y responsive.
+
+## Conéctate Conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-quintana-fattor-0913a8241/)
+- [Instagram](https://www.instagram.com/emmanuelfattor/)
+
+## Herramientas y Tecnologías
+
+- C# .NET
+- JAVA
+- HTML5
+- CSS3
+- GitHub
+
