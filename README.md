@@ -23,5 +23,5 @@ También estoy realizando la Diplomatura en Programación Full Stack dictado por
 - JAVA
 - HTML5
 - CSS3
-- GitHub
+- Git
 
